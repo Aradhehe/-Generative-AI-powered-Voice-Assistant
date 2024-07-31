@@ -1,4 +1,4 @@
-# Astute_Samsung_Prism
+# Generative-AI-powered-Voice-Assistant
 
 <img src = "https://github.com/Aditya3012Purwar/Astute_Samsung_Prism/assets/103439955/f8f69ab6-5a14-4b16-9aa1-f247ffe13230" width = "100%"/>
 
