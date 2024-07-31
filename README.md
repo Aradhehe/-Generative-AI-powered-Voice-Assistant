@@ -6,8 +6,6 @@
 
 Welcome to the **Generative AI Workspace for Office Meetings!** This project empowers office workers to streamline their meeting experiences, fostering efficient communication and collaboration across language barriers.
 
-### Note: The updated folder in repository also include the previous code which was submitted before deadline.
-
 ### Key Features
 
 - #### Meeting Management:
